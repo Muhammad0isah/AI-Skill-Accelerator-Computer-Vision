@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+mlruns
+mlartifacts
+data
+model
+result
+
 # C extensions
 *.so
 
